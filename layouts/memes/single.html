@@ -1,0 +1,7 @@
+{{ define "main" }}
+<h2>{{ .Page.Title }}</h2>
+{{ .Content }}
+{{ range .Params.Images }}
+<img src="{{ (resources.Get (.)).RelPermalink }}" alt="{{ $.Page.Title }}">
+{{ end }}
+{{ end }}

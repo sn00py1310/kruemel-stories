@@ -1,0 +1,5 @@
+<h2>{{ .Title }}</h2>
+<p>{{ .Description }}</p>
+{{ range .Params.Images }}
+<img src="{{ (resources.Get (.)).RelPermalink }}" alt="{{ $.Page.Title }}" style="max-height: 90%; width: 90%;">
+{{ end }}

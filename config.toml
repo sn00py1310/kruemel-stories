@@ -1,0 +1,5 @@
+baseURL = 'https://sn00py1310.github.io/kruemel-stories/'
+languageCode = 'en-us'
+title = 'Krümel stories'
+
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]

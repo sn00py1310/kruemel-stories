@@ -1,0 +1,36 @@
+{{ define "main" }}
+<style>
+    :root {
+        --grid-size: minmax(400px, 500px)
+    }
+    .preview-box {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, var(--grid-size));
+            grid-auto-rows: auto;
+            gap: 20px 20px;
+            justify-content: center;
+            grid-auto-flow: dense;
+    }
+
+    .meme-preview {
+        background-color: #3c3c3c;
+        /* outline: red; */
+        /* outline-style: inset; */
+        object-fit: contain;
+        height: 100%;
+        display: block;
+        text-align: center;
+        padding: 5px 2px 10px;
+        box-sizing: border-box;
+    }
+
+
+</style>
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+    <div class="preview-box">
+    {{ range .Pages }}
+    <div class="meme-preview">{{ .Render "preview" }}</div>
+    {{ end }}
+    </div>
+{{ end }}
