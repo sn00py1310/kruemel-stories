@@ -1,5 +1,5 @@
 ---
-title: "Krümel Floor"
-date: 2023-06-28T23:00:39+02:00
+title: "Krümel.floor()"
+date: 2023-05-22T08:22:36.593Z
 images: ["/memes/floor.png"]
 ---

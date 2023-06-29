@@ -1,5 +1,5 @@
 ---
-title: "Krümel Panisch Hoch Minus 1"
-date: 2023-06-28T23:05:00+02:00
+title: "Krümel Panisch^-1"
+date: 2023-05-16T19:26:40.406Z
 images: ["/memes/panisch-hoch-minus-1.png"]
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krümel Basiswechsel"
-date: 2023-06-28T22:54:06+02:00
+date: 2023-05-24T10:07:19.233Z
 images: ["/memes/basiswechsel.gif"]
 ---

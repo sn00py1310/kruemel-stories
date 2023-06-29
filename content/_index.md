@@ -1,11 +1,10 @@
 ---
-title: All the stories with Krümel
+title: Die Geschichten von dem Krümel Hamster und Meister der Linearen Algebra
 ---
-[See all the memes with Krümel](./memes/)
+## [Schau dir die Memes an!](./memes/)
 
 ---
-
-# Die Krümel Triologie
+# Die Krümel Trilogie
 ## Kapitel 1
 In dem mystischen Land der Mathematik, in dem Zahlen und Gleichungen herrschten, lebte ein kleiner und bescheidener Hamster namens Krümel. Während andere Kreaturen sich im Reich der Differentialrechnung oder Geometrie tummelten, fand Krümel seine Erfüllung in den Tiefen der linearen Algebra.
 
@@ -29,7 +28,7 @@ Vollkommen erfüllt kehrte Krümel zur Mathematikakademie zurück, die Matrix de
 
 Krümel, der einst als einfacher Hamster belächelt wurde, wurde zu einem Symbol für Mut, Entdeckung und unersättliche Neugierde. Sein Name würde für immer in den Annalen der Mathematik verewigt bleiben, als jener mutige Hamster, der die Matrix der Einheit fand und die Welt der linearen Algebra für immer veränderte.
 
-
+---
 ## Kapitel 2
 In den Wochen nach Krümels Rückkehr zur Mathematikakademie ergoss sich eine Welle der Begeisterung über das Land. Die Geschichte des tapferen Hamsters, der die Matrix der Einheit fand, verbreitete sich wie ein Lauffeuer. Die Schüler und Professoren der Akademie waren fasziniert von Krümels Abenteuer und von den neuen Erkenntnissen, die er mitgebracht hatte.
 
@@ -61,7 +60,7 @@ Mit jeder neuen Entdeckung wuchs Krümels Begeisterung und sein Verständnis der
 
 Krümel, der wagemutige Hamster, beschloss, sich auf weitere Abenteuer einzulassen. Mit seinem Notizbuch und seiner Entschlossenheit im Gepäck begab er sich auf eine neue Reise in die Tiefen der Mathematik, bereit, neue Welten zu entdecken und das unerforschte Terrain der Dualität zu erkunden.
 
-
+---
 ## Kapitel 3
 In den Tiefen der Mathematikakademie, abseits der hektischen Korridore und belebten Hörsäle, befand sich ein geheimer Ort, der nur den furchtlosesten und neugierigsten Forschern bekannt war - das Tor zum Dualraum. Dies war ein geheimnisvoller und faszinierender Bereich, in dem sich die Gesetze der linearen Algebra auf unerwartete Weise manifestierten.
 

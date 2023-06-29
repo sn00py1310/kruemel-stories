@@ -1,5 +1,5 @@
 ---
-title: "Krümel Nillpotent"
-date: 2023-06-28T22:55:25+02:00
+title: "Nilpotenter Krümel"
+date: 2023-05-24T07:38:33.150Z
 images: ["/memes/nilpotent.gif"]
 ---

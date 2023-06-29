@@ -1,5 +1,5 @@
 ---
-title: "Krümel Kern"
-date: 2023-06-28T23:03:28+02:00
+title: "Kern(Krümel)"
+date: 2023-05-17T08:24:18.413Z
 images: ["/memes/kern.jpg"]
 ---

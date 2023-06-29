@@ -1,5 +1,5 @@
 ---
 title: "Beschränkter Krümel"
-date: 2023-06-22T00:03:32+02:00
+date: 2023-06-21T11:29:38.842Z
 images: ["/memes/beschraenkt.jpg"]
 ---

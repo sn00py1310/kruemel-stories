@@ -1,5 +1,5 @@
 ---
-title: "Krümel Spec"
-date: 2023-06-28T23:02:29+02:00
+title: "Spec(Krümel)"
+date: 2023-05-17T08:25:18.930Z
 images: ["/memes/spec.png"]
 ---

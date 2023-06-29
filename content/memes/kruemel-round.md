@@ -1,5 +1,5 @@
 ---
-title: "Krümel Round"
-date: 2023-06-28T22:57:09+02:00
+title: "Krümel.round()"
+date: 2023-05-22T12:37:39.107Z
 images: ["/memes/round.png"]
 ---

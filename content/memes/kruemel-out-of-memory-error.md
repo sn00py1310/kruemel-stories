@@ -1,5 +1,5 @@
 ---
 title: "Krümel Out of Memory Error"
-date: 2023-06-28T22:57:44+02:00
+date: 2023-05-22T08:49:14.273Z
 images: ["/memes/out-of-memory.gif"]
 ---

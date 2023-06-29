@@ -29,7 +29,7 @@
     <h1 style="text-align: center;">{{ .Title }}</h1>
     <p>{{ .Content }}</p>
     <div class="preview-box">
-    {{ range .Pages }}
+    {{ range .Pages.ByDate }}
     <div class="meme-preview">{{ .Render "preview" }}</div>
     {{ end }}
     </div>
